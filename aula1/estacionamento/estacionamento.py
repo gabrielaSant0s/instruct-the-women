@@ -103,8 +103,8 @@ class Estacionamento(Vaga):
 
 ######## Testando classe moto #############
 
-# moto1 = Moto('5678')
-# print(moto1)
+moto1 = Moto('5678')
+print(moto1)
 # moto1.estacionar()
 # print(moto1)
 # moto1.sair_da_vaga()
